@@ -1,0 +1,62 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+blockquote {
+  font-size: 22px;
+}
+
+.blueprint {
+  height: 20em;
+}
+
+.blueprint:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.blueprint.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+.attribution {
+  color: rgb(141, 141, 141);
+  font-size: 12px;
+}
+
+.logo {
+  border: none;
+  padding: 0;
+  height: 4em;
+  will-change: filter;
+  background-color: white;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@media (max-width: 600px) {
+  .blueprint {
+    height: 15em;
+  }
+
+  .title {
+    font-size: 30px;
+  }
+
+  figure, blockquote {
+    width: 100%;
+    margin: 0;
+  }
+
+  blockquote {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+}
