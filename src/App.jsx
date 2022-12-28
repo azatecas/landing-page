@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <div>
-        <img src="src/assets/blueprint.png" className="blueprint" alt="crane" />
+        <img src="https://imgur.com/s15x0d7" className="blueprint" alt="crane" />
       </div>
       <a
         href="https://www.flaticon.com/free-icons/blueprint"
