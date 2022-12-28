@@ -17,7 +17,7 @@ function App() {
       <div>
         <figure>
           <blockquote>
-            Hey there! due to Heroku's policy changes regarding free
+            Hey there! Due to Heroku's policy changes regarding free
             non-commercial hosting, my portfolio site, along with some of my
             portfolio showcase projects are down and need to be redeployed. I'm
             taking this opportunity to redesign my Portfolio site and reconsider
